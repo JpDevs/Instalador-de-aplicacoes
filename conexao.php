@@ -1,7 +1,3 @@
 <?php
-    $host = 'localhost';
-    $bd = 'foco';
-    $user = 'root';
-    $pass = '';
-    $instalado = 'true';
-    ?>
+//Sempre deixar em branco, a aplicação irá inserir as informações automaticamente.
+?>
